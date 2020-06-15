@@ -13,7 +13,7 @@ ios引用方式：
 
 ```
   pod 'libwebp', :podspec => 'libwebp.podspec.json'
-  pod 'SDWebImage/WebP'
+  pod 'SDWebImageWebPCoder'
 ```
 
 
