@@ -5,7 +5,7 @@ libwebp fork
 ios引用方式：
 
 ```
-  pod 'libwebp', :git => 'https://github.com/webmproject/libwebp.git'
+  pod 'libwebp', :git => 'https://github.com/Limghi/libwebp.git'
   pod 'SDWebImageWebPCoder'
 ```
 
